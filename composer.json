@@ -1,0 +1,11 @@
+{
+  "name": "benjaminMedia/wp-disable-responsive-images",
+  "type": "wordpress-plugin",
+  "homepage": "https://github.com/BenjaminMedia/wp-disable-responsive-images",
+  "license": "GPLv3",
+  "description": "Disable responsive images introduced in 4.4",
+  "keywords": ["plugin"],
+  "require": {
+    "composer/installers": "~1.0.6"
+  }
+}
